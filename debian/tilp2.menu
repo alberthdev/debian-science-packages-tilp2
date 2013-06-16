@@ -1,0 +1,7 @@
+!C menu-2
+?package(tilp2):
+  section="Applications/Science/Mathematics"
+  needs="X11"
+  title="TiLP2"
+  command="tilp"
+;

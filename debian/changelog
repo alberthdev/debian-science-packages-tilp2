@@ -1,0 +1,11 @@
+tilp2 (1.17-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Andreas B. Mundt <andi@debian.org>  Mon, 10 Jun 2013 16:55:45 +0200
+
+tilp2 (1.12-1) unstable; urgency=low
+
+  * Initial release. (Closes: #503099)
+
+ -- Krzysztof Burghardt <krzysztof@burghardt.pl>  Tue, 09 Jun 2009 20:03:57 +0200
