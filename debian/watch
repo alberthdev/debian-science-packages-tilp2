@@ -1,0 +1,3 @@
+version=3
+opts=dversionmangle=s/\.ds// \
+http://sf.net/tilp/tilp2-(.+)\.tar\.bz2

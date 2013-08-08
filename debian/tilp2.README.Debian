@@ -1,0 +1,12 @@
+TiLP2 for Debian :
+------------------
+libticables2 is now set up for allowing calculator connectivity
+without necessitating any special root access or group setup. However,
+a reboot may be required after installation for connectivity to work.
+Do a reboot only if connectivity does not work.
+
+If you can not connect to your calculator, please read
+/usr/share/doc/libticables2-6/CONFIG.gz; this file contains important
+information about the alternate setup of TiLP/libticables2-6.
+
+-- Albert Huang <alberth.debian@gmail.com>  Tues, 26 Jun 2012 21:27:37 -0400

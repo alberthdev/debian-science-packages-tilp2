@@ -1,5 +1,7 @@
-This package was debianized by Julien BLACHE <jblache@debian.org> on
-Mon, 14 Feb 2000 14:55:57 +0100.
+This package was created by Romain LIEVIN <roms@tilp.info> in 2002.
+It was taken over by Krzysztof Burghardt <krzysztof@burghardt.pl>
+around 2007.  Since 2012 Albert Huang <alberth.debian@gmail.com>
+worked on the package.  It is now team-maintained in Debian-Science.
 
 It was downloaded from <http://lpg.ticalc.org/prj_tilp/>
 
@@ -46,6 +48,9 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL-2'.
 
-The Debian packaging is © 2000, Julien BLACHE <jblache@debian.org>
-and © 2009, Krzysztof Burghardt <krzysztof@burghardt.pl> and
-is licensed under the GPL, see above.
+The Debian packaging is:
+© 2002-2009 Romain Liévin <roms@tilp.info>,
+© 2009 Krzysztof Burghardt <krzysztof@burghardt.pl>,
+© 2012 Albert Huang <alberth.debian@gmail.com>,
+© 2013 Andreas B. Mundt <andi@debian.org>.
+It is licensed under the GPL (see above).
