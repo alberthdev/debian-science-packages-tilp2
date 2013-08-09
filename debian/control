@@ -17,8 +17,8 @@ Build-Depends: autotools-dev,
                zlib1g-dev
 Standards-Version: 3.9.4
 Homepage: http://lpg.ticalc.org/prj_tilp/
-Vcs-Git: git://git.debian.org/git/debian-science/packages/tilp2.git
-Vcs-Browser: http://git.debian.org/?p=debian-science/packages/tilp2.git
+Vcs-Git: git://anonscm.debian.org/debian-science/packages/tilp2.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=debian-science/packages/tilp2.git
 
 Package: tilp2
 Architecture: any
