@@ -1,14 +1,15 @@
-tilp2 (1.17-1) UNRELEASED; urgency=low
+tilp2 (1.17-1) unstable; urgency=low
 
-  * Team maintained in Debian-Science now. (Closes: #678059)
+  * Team maintained in Debian-Science now (closes: #678059).
+    Modifications in cooperation with Albert Huang
+    <alberth.debian@gmail.com>, thanks!
   * New upstream release.
-  * Bumped versions of libti* dependencies for compatibility and stability.
-  * Added debian/watch to enable upstream update tracking.
-  * Updated to packaging format 3.0, bumped debian/compat to 9 and updated
-    debhelper version to 9.
-  * Bumped Standards-Version to 3.9.4.
+  * Bumped versions of libti* dependencies.
+  * Add debian/watch to enable upstream release tracking.
+  * Switch to packaging format 3.0 (quilt).
+  * Bump 'debian/compat' to 9 and Standards-Version to 3.9.4.
 
- -- Andreas B. Mundt <andi@debian.org>  Mon, 10 Jun 2013 16:55:45 +0200
+ -- Andreas B. Mundt <andi@debian.org>  Sat, 10 Aug 2013 19:57:42 +0200
 
 tilp2 (1.12-1) unstable; urgency=low
 
