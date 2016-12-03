@@ -1,3 +1,11 @@
+tilp2 (1.17-2) UNRELEASED; urgency=medium
+
+  * Switch to secure URI for vcs-field.
+  * Remove deprecated menu file.
+  * Bump Standards-Version to 3.9.8 (no changes needed).
+
+ -- Andreas B. Mundt <andi@debian.org>  Sat, 03 Dec 2016 20:12:15 +0300
+
 tilp2 (1.17-1) unstable; urgency=low
 
   * Team maintained in Debian-Science now (closes: #678059).
