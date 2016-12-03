@@ -1,5 +1,0 @@
-?package(tilp2):\
- needs="X11"\
- section="Applications/Science/Mathematics"\
- title="TiLP2"\
- command="tilp"
